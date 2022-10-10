@@ -25,5 +25,5 @@ initialCenter = {
 }
 
 export default GoogleApiWrapper({
-  apiKey: 'AIzaSyDTb62ngSxLXVoJQX52peiSlBczQHF6eqw'
+  apiKey: '************************'
 })(MapContainer)
